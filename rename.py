@@ -2,7 +2,7 @@ import os
 import glob
 
 # Define the directory containing the HTML files
-directory = "C:/Users/DevOps/Downloads/a/"
+directory = "C:/Users/<username>/Documents/"
 html_files = glob.glob(os.path.join(directory, "*.html"))
 
 # Initialize a counter
